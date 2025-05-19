@@ -77,8 +77,9 @@ for password in tqdm(passwords):
         continue
 ```
 ```
-  0%|                                                                                                                                                                   | 35/14344392 [00:18<1975:22:31,  2.02it/s][+] Password found: liverpool
-  0%|                                                                                                                                                                   | 35/14344392 [00:18<2133:31:56,  1.87it/s]
+  0%|| 35/14344392 [00:18<1975:22:31,  2.02it/s]
+  [+] Password found: liverpool
+  0%|| 35/14344392 [00:18<2133:31:56,  1.87it/s]
 ```
 Dumping the domain users using the keepassxc GUI:
 ```bash
