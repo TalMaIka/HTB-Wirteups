@@ -1,4 +1,7 @@
-![](Phttps://labs.hackthebox.com/storage/avatars/6a127b39657062e42c1a8dfdcd23475d.png)
+![](https://labs.hackthebox.com/storage/avatars/6a127b39657062e42c1a8dfdcd23475d.png)
+```bash
+nmap -sV -sC -oA nmap 10.10.11.70 -v -p-
+```
 Nmap machine results
 ```
 3/tcp    open  domain        syn-ack Simple DNS Plus
