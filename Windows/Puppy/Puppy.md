@@ -158,7 +158,7 @@ WINRM       10.129.16.111   5985   DC               [*] Windows Server 2022 Buil
 WINRM       10.129.16.111   5985   DC               [+] PUPPY.HTB\steph.cooper:ChefSteph2025! (Pwn3d!)
 ```
 
-***PE
+***Privilege Escalation***
 ```
 Directory: C:\Users\steph.cooper\AppData\Roaming\Microsoft\Credentials
 
